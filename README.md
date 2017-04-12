@@ -7,6 +7,7 @@
 ### 目录  
 [一个前端菜鸟的自述2017-04-10](https://github.com/BendMoly/MolyCHNs-Blogger/issues/1)  
 [进驻gitHub前的准备工作2017-04-11](https://github.com/BendMoly/MolyCHNs-Blogger/issues/2)  
+[使用gulp搭建前端构建工具2017-04-12](https://github.com/BendMoly/MolyCHNs-Blogger/issues/3)  
 #### 设计模式学习(更新于2017-04-09)  
 [-javascript设计模式学习](https://github.com/BendMoly/jsDesignPattern) 
 #### Vue框架应用(该模块暂时未整合到git仓库中)  
